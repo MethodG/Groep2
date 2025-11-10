@@ -47,6 +47,7 @@ project:
 
     - title: Labs
       file: Content/Labs/uitleg.md
+      file: Content/Labs/BM_labjournaal.ipynb
       # children:
         
       # - title: Soortelijke warmte
