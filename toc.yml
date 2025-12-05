@@ -51,18 +51,18 @@ project:
 
       - title: Soortelijke warmte
         children:
-           - file: Content/Labs/cwater.ipynb
-           - file: Content/Labs/Verdamping.ipynb        
-           - file: Content/Labs/Warmtecapaciteit.ipynb
+           - file: Content/Labs/Soortelijke Warmte/cwater.ipynb
+           - file: Content/Labs/Soortelijke Warmte/Verdamping.ipynb        
+           - file: Content/Labs/Soortelijke Warmte/Warmtecapaciteit.ipynb
 
       - title: Druk
         children:
-          - file: Content/Labs/druksensorijken.ipynb
-          - file: Content/Labs/pV_diagram.ipynb
-          - file: Content/Labs/ballonproef.ipynb
+          - file: Content/Labs/Druk/druksensorijken.ipynb
+          - file: Content/Labs/Druk/pV_diagram.ipynb
+          - file: Content/Labs/Druk/ballonproef.ipynb
       
       - title: Faseovergangen
         children:
-          - file: Content/Labs/cappucino.ipynb
-          - file: Content/Labs/Verdamping.ipynb
-          - file: Content/Labs/waxine.ipynb
+          - file: Content/Labs/Faseovergangen/cappucino.ipynb
+          - file: Content/Labs/Faseovergangen/Verdamping.ipynb
+          - file: Content/Labs/Faseovergangen/waxine.ipynb
