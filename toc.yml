@@ -58,11 +58,8 @@ project:
       - title: Druk
         children:
           - file: Content/Labs/Druk/druksensorijken.ipynb
-          - file: Content/Labs/Druk/pV_diagram.ipynb
-          - file: Content/Labs/Druk/ballonproef.ipynb
       
       - title: Faseovergangen
         children:
-          - file: Content/Labs/Faseovergangen/cappucino.ipynb
           - file: Content/Labs/Faseovergangen/Verdamping.ipynb
           - file: Content/Labs/Faseovergangen/waxine.ipynb
